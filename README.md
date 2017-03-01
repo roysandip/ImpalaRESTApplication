@@ -1,0 +1,2 @@
+# ImpalaRESTApplication
+Impala REST API
