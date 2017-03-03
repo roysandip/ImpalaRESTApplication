@@ -14,7 +14,7 @@ import javax.ws.rs.Produces;
 /**
  * @author sandiproy
  * This a very basic JAX-RS framework based REST service proto-type that fetches data for given query 
- * from kerborised-impala instance and produces a JSON formatted response for the result-set.
+ * from secured-impala instance and produces a JSON formatted response for the result-set.
  */
 @Path("/impala")
 public class ImpalaRESTService {
